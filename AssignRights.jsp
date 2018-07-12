@@ -1,9 +1,3 @@
-<%-- 
-    Document   : AssignRights
-    Created on : Apr 8, 2015, 8:08:23 PM
-    Author     : ronakrana
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8" import="java.util.*,javax.servlet.RequestDispatcher,functions.logic"%>
 <!DOCTYPE html>
 <html>
