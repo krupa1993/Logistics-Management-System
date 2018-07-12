@@ -1,9 +1,3 @@
-<%-- 
-    Document   : AdminRegistration
-    Created on : Apr 8, 2015, 6:34:03 PM
-    Author     : ronakrana
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8" import="java.util.ArrayList,functions.logic"%>
 <!DOCTYPE html>
 <html>
