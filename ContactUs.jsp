@@ -1,9 +1,3 @@
-<%-- 
-    Document   : ContactUs
-    Created on : Apr 16, 2015, 11:25:46 AM
-    Author     : ronakrana
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
